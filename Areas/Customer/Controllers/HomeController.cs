@@ -1,4 +1,5 @@
-﻿using JayBookStore.Models;
+﻿
+using JayBookStore.Models.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,8 +8,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace JayBookStore.Controllers
+namespace JayBookStore.Area.Customer.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -31,7 +33,7 @@ namespace JayBookStore.Controllers
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View(new ErrorViewModel{ RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }

@@ -13,6 +13,17 @@
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.11" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JayBooks.DataAccess\JayBooks.DataAccess.csproj" />
+    <ProjectReference Include="..\JayBooks.Models\JayBooks.Models.csproj" />
+    <ProjectReference Include="..\JayBooks.Utility\JayBooks.Utility.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Controllers\" />
   </ItemGroup>
 
 </Project>

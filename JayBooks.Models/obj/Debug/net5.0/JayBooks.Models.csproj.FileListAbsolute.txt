@@ -1,0 +1,14 @@
+C:\Users\12269\source\repos\JayBooks.Models\bin\Debug\net5.0\JayBooks.Models.deps.json
+C:\Users\12269\source\repos\JayBooks.Models\bin\Debug\net5.0\JayBooks.Models.dll
+C:\Users\12269\source\repos\JayBooks.Models\bin\Debug\net5.0\ref\JayBooks.Models.dll
+C:\Users\12269\source\repos\JayBooks.Models\bin\Debug\net5.0\JayBooks.Models.pdb
+C:\Users\12269\source\repos\JayBooks.Models\obj\Debug\net5.0\JayBooks.Models.csproj.AssemblyReference.cache
+C:\Users\12269\source\repos\JayBooks.Models\obj\Debug\net5.0\JayBooks.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12269\source\repos\JayBooks.Models\obj\Debug\net5.0\JayBooks.Models.AssemblyInfoInputs.cache
+C:\Users\12269\source\repos\JayBooks.Models\obj\Debug\net5.0\JayBooks.Models.AssemblyInfo.cs
+C:\Users\12269\source\repos\JayBooks.Models\obj\Debug\net5.0\JayBooks.Models.csproj.CoreCompileInputs.cache
+C:\Users\12269\source\repos\JayBooks.Models\obj\Debug\net5.0\JayBooks.Models.dll
+C:\Users\12269\source\repos\JayBooks.Models\obj\Debug\net5.0\ref\JayBooks.Models.dll
+C:\Users\12269\source\repos\JayBooks.Models\obj\Debug\net5.0\JayBooks.Models.pdb
+C:\Users\12269\source\repos\JayBooks.Models\bin\Debug\net5.0\JayBooks.Utility.dll
+C:\Users\12269\source\repos\JayBooks.Models\bin\Debug\net5.0\JayBooks.Utility.pdb

@@ -1,0 +1,16 @@
+C:\Users\12269\source\repos\JayBooks.DataAccess\bin\Debug\net5.0\JayBooks.DataAccess.deps.json
+C:\Users\12269\source\repos\JayBooks.DataAccess\bin\Debug\net5.0\JayBooks.DataAccess.dll
+C:\Users\12269\source\repos\JayBooks.DataAccess\bin\Debug\net5.0\ref\JayBooks.DataAccess.dll
+C:\Users\12269\source\repos\JayBooks.DataAccess\bin\Debug\net5.0\JayBooks.DataAccess.pdb
+C:\Users\12269\source\repos\JayBooks.DataAccess\obj\Debug\net5.0\JayBooks.DataAccess.csproj.AssemblyReference.cache
+C:\Users\12269\source\repos\JayBooks.DataAccess\obj\Debug\net5.0\JayBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12269\source\repos\JayBooks.DataAccess\obj\Debug\net5.0\JayBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Users\12269\source\repos\JayBooks.DataAccess\obj\Debug\net5.0\JayBooks.DataAccess.AssemblyInfo.cs
+C:\Users\12269\source\repos\JayBooks.DataAccess\obj\Debug\net5.0\JayBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\12269\source\repos\JayBooks.DataAccess\obj\Debug\net5.0\JayBooks.DataAccess.dll
+C:\Users\12269\source\repos\JayBooks.DataAccess\obj\Debug\net5.0\ref\JayBooks.DataAccess.dll
+C:\Users\12269\source\repos\JayBooks.DataAccess\obj\Debug\net5.0\JayBooks.DataAccess.pdb
+C:\Users\12269\source\repos\JayBooks.DataAccess\bin\Debug\net5.0\JayBooks.Models.dll
+C:\Users\12269\source\repos\JayBooks.DataAccess\bin\Debug\net5.0\JayBooks.Utility.dll
+C:\Users\12269\source\repos\JayBooks.DataAccess\bin\Debug\net5.0\JayBooks.Models.pdb
+C:\Users\12269\source\repos\JayBooks.DataAccess\bin\Debug\net5.0\JayBooks.Utility.pdb

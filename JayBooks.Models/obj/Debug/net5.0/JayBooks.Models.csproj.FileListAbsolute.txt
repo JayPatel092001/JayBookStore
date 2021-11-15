@@ -12,4 +12,3 @@ C:\Users\12269\source\repos\JayBooks.Models\obj\Debug\net5.0\ref\JayBooks.Models
 C:\Users\12269\source\repos\JayBooks.Models\obj\Debug\net5.0\JayBooks.Models.pdb
 C:\Users\12269\source\repos\JayBooks.Models\bin\Debug\net5.0\JayBooks.Utility.dll
 C:\Users\12269\source\repos\JayBooks.Models\bin\Debug\net5.0\JayBooks.Utility.pdb
-C:\Users\12269\source\repos\JayBooks.Models\obj\Debug\net5.0\JayBooks.Models.csproj.CopyComplete

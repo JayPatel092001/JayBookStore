@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using JayBooks.DataAccess.Repository.IRepository;
+
 using JayBooks.Models;
 using JayBookStore.DataAccess.Data;
-
+using JayBooks.DataAccess.Repository.IRepository;
 
 namespace JayBooks.DataAccess.Repository
 {
@@ -29,9 +29,7 @@ namespace JayBooks.DataAccess.Repository
                 _db.SaveChanges();
             }
         }
-    }
 
-    internal interface ICategoryRepository
-    {
+       
     }
 }

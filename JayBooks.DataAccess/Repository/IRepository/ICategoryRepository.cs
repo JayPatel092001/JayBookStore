@@ -10,6 +10,7 @@ namespace JayBooks.DataAccess.Repository.IRepository
 {
     public interface ICategoryRepository
     {
-        void Update(Category category);
+        void update(Category category);
+        
     }
 }

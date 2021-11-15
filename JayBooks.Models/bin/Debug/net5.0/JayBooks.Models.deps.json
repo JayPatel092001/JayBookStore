@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JayBooks.Models/1.0.0": {
+        "dependencies": {
+          "JayBooks.Utility": "1.0.0"
+        },
+        "runtime": {
+          "JayBooks.Models.dll": {}
+        }
+      },
+      "JayBooks.Utility/1.0.0": {
+        "runtime": {
+          "JayBooks.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JayBooks.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JayBooks.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
